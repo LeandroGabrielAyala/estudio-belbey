@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="134px" height="62px" viewBox="0 0 134 62" enable-background="new 0 0 134 62" xml:space="preserve">
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M112.928,24.246c5.051-3.916,9.487-7.452,11.377-9.104c-3.92,0.637-8.756,1.461-13.734,2.491
+				c-0.866-2.339-1.632-4.285-2.196-5.521c-0.68,0.719-2.453,3.504-4.599,7.049c-2.854,0.701-5.637,1.471-8.205,2.316
+				c0.846,1.07,2.341,2.617,4.206,4.412c-4.091,6.97-8.046,13.933-8.046,13.933c2.148-1.27,7.348-5.049,13.025-9.33
+				c4.791,4.3,10.285,8.949,13.98,11.921C117.684,38.519,115.263,30.995,112.928,24.246L112.928,24.246z"/>
+		</defs>
+		<use xlink:href="#SVGID_1_"  overflow="visible" fill-rule="evenodd" clip-rule="evenodd" fill="#222222"/>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_2_)">
+			<defs>
+				<rect id="SVGID_3_" x="91.731" y="12.11" width="32.574" height="30.302"/>
+			</defs>
+			<use xlink:href="#SVGID_3_"  overflow="visible" fill="#222222"/>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  overflow="visible"/>
+			</clipPath>
+		</g>
+	</g>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#222222" d="M76.297,21.504h-3.719c0,0,0.099,12.986,0.104,13.624
+		c-0.453-0.464-13.252-13.624-13.252-13.624h-4.734v17.395h3.858c0,0-0.104-13.282-0.108-13.918
+		c0.453,0.462,13.687,13.918,13.687,13.918h4.302V21.504H76.297L76.297,21.504z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#222222" d="M13.149,21.504H9.286v17.395h15.47l-1.714-2.633
+		c0,0-9.495,0-9.757,0c0-0.267,0-14.762,0-14.762H13.149L13.149,21.504z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#222222" d="M40.741,21.504H37.41L26.072,38.899h4.581
+		c0,0,8.242-13.294,8.464-13.655c0.212,0.339,3.772,6.02,4.006,6.396c-0.455,0-6.952,0-6.952,0l1.67,2.564c0,0,6.732,0,6.879,0
+		c0.077,0.123,2.916,4.701,2.916,4.701l4.518-0.006L40.814,21.504H40.741L40.741,21.504z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#222222" d="M107.042,41.599c-9.047,0.251-16.449,3.329-24.557,5.06
+		c-4.169,0.998-8.455,1.789-12.835,2.346c2.154,0.457,4.487,0.688,7.116,0.578c13.357-0.559,21.773-5.361,33.06-5.832
+		c2.469-0.1,5.989-0.156,8.864,0.17C115.348,42.559,111.647,41.471,107.042,41.599L107.042,41.599z"/>
+</g>
+</svg>
